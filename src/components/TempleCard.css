@@ -1,0 +1,17 @@
+.temple-card {
+    background-color: #fbebce;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .temple-card h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .temple-card p {
+    font-size: 16px;
+    margin-bottom: 4px;
+  }
+  
