@@ -1,6 +1,6 @@
 import React from 'react';
 import TempleCard from './TempleCard';
-
+import './TempleList.css';
 
 
 const TempleList = ({ temple }) => {
@@ -10,13 +10,14 @@ const TempleList = ({ temple }) => {
         <div class="card-deck">
         <br></br>
         <TempleCard
+          id={temple.id}
           name={temple.temple_name}
           location={temple.temple_location}
           image={temple.temple_image}
           description={temple.temple_description}
         />
       </div>
-   
+
 
 
 

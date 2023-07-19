@@ -1,52 +1,44 @@
-import React, { useState, useEffect } from "react";
+// import React, { useState, useEffect } from "react";
 import './App.css';
-import TempleList from './components/TempleList';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+import Description from './components/description';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Home from './components/Home/Home.js';
+
 
 
 const App = () => {
-  const [temples, setTemples] = useState([]);
+  // const [temples, setTemples] = useState([]);
 
-  const getData = async () => {
-    var requestOptions = {
-      method: "GET",
-      headers: {
-        'Content-Type':
-          'application/json;charset=utf-8'
-      },
-    };
+  // const getData = async () => {
+  //   var requestOptions = {
+  //     method: "GET",
+  //     headers: {
+  //       'Content-Type':
+  //         'application/json;charset=utf-8'
+  //     },
+  //   };
 
-    const response = await fetch('http://localhost:3030/temples', requestOptions)
-    const data = await response.json()
-    //console.log(data)
-    setTemples(data)
-    //async await
+  //   const response = await fetch('http://localhost:3030/temples', requestOptions)
+  //   const data = await response.json()
+  //   //console.log(data)
+  //   setTemples(data)
+  //   //async await
 
-  };
+  // };
 
-  useEffect(() => {
-    getData();
-  }, []);
+  // useEffect(() => {
+  //   getData();
+  // }, []);
 
   return (
-    <div className="App">
-      <div className="header">
-      <h1>The Temples Of India</h1>
-      <h6>Click on a Card for Detailed Information</h6>
-      </div>
-      <div>
-        <Row>
-          {temples.map((temple) => (
-            <Col>
-              <TempleList key={temple.id} temple={temple} />
-            </Col>
-          ))}
 
-        </Row>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home/>} />
+        <Route path="/temples/:id/*" element={<Description/>} />
+      </Routes>
+    </BrowserRouter>
 
-      </div>
-    </div>
   );
 };
 
