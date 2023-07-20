@@ -1,8 +1,12 @@
 .temple-card {
     background-color: #fbebce;
-    border-radius: 8px;
-    padding: 16px;
+    border-radius: 16px;
+    padding: 11px;
     margin-bottom: 16px;
+    width: 21.25rem; 
+    height: 21.3rem;
+    flex: 1;
+    position: relative;
   }
   
   .temple-card h2 {
@@ -15,3 +19,14 @@
     margin-bottom: 4px;
   }
   
+  .temple-card .card-img-top {
+    object-fit: cover;
+    height: 50%; /* Set the desired height for the card image */
+  }
+
+  .button-position {
+    position: absolute; /* Set the card body to absolute position */
+    bottom: 0; 
+    height:16%;
+    width: 90%; 
+  }
