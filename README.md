@@ -5,6 +5,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+Setup the JSON backend server by running the necessary commands.
+File name with data is "db.json"
+
+1) Installing JSON server package
+### npm install -g json-server
+
+
+
+2) Starting server
+### json-server --watch db.json --port 3030
+
+Given Npm is available, 
 
 ### `npm start`
 
