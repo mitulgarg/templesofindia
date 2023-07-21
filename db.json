@@ -5,91 +5,117 @@
       "temple_name": "Kashi Vishwanath Mandir",
       "temple_location": "Varanasi",
       "temple_image":"https://www.deccanherald.com/sites/dh/files/styles/gallery_thumbnails/public/gallery_images/2021/12/13/file7it39sqcijbouyq81z6.jpg",
-      "temple_description": "Kashi Vishwanath Temple is one of the most famous temples in Varanasi. This one is beautifully settled on the western banks of the River Ganga, this one is among the twelve famous holiest jyotirlingas, if you define them in common words then it would mean the sacred centers of Shiva worship spread all over India. "
+      "temple_description": "Kashi Vishwanath Temple is one of the most famous temples in Varanasi. This one is beautifully settled on the western banks of the River Ganga, this one is among the twelve famous,holiest jyotirlingas, if you define them in common words then it would mean the sacred centers of Shiva worship spread all over India. Varanasi was called Kashi (shining) in ancient times, and hence the temple is popularly called Kashi Vishwanath Temple. The temple is considered a central part of worship in Shaiva culture by Hindu scriptures.The temple had been demolished several times, most recently by Mughal emperor Aurangzeb, who constructed the Gyanvapi Mosque on its site. The current structure was built on an adjacent site by the Maratha ruler Ahilyabai Holkar of Indore in 1780.Since 1983, the temple has been managed by a board of trustees set up by the government of Uttar Pradesh.",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     }, 
     {
       "id": 2,
       "temple_name": "Jada Tirtham – Ancient Place",
       "temple_location": "Rameshwaram",
       "temple_image":"https://rameshwaramtourism.co.in/images/headers/jada-tirtham-rameshwaram-tourism-entry-fee-timings-holidays-reviews-header.jpg",
-      "temple_description": "Jada Tritham Temple features the sacred mythological pond. The pond is considered to be very holy in the temple due to the legendary fact that Lord Rama had washed his hair in its waters before worshipping Lord Shiva, after killing Ravana and rescuing Sita. "
+      "temple_description": "Jada Tritham Temple features the sacred mythological pond. The pond is considered to be very holy in the temple due to the legendary fact that Lord Rama had washed his hair in its waters before worshipping Lord Shiva, after killing Ravana and rescuing Sita. ",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id": 3,
       "temple_name": "Dwarkadhish Temple",
       "temple_location": "Dwarka",
       "temple_image":"https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/dwarkadhish-temple-1597149611-lb-1626228217.jpg",
-      "temple_description": "Dwarkadhish Temple also known as the Jagat Mandir, is a Chalukya styled architecture, dedicated to Lord Krishna. The town of Dwarka has its history dated back to the Kingdom of Dwarka in Mahabharata. The five-storied main shrines is grand and marvellous in itself constructed of limestone and sand."
+      "temple_description": "Dwarkadhish Temple also known as the Jagat Mandir, is a Chalukya styled architecture, dedicated to Lord Krishna. The town of Dwarka has its history dated back to the Kingdom of Dwarka in Mahabharata. The five-storied main shrines is grand and marvellous in itself constructed of limestone and sand.According to tradition, the original temple was believed to have been built by Krishna's grandson, Vajranabha, over the hari-griha (Krishna's residential place). The original structure was destroyed by Mahmud Begada in 1472, and subsequently rebuilt in the 15th–16th century,[citation needed] in the Māru-Gurjara style.The temple became part of the Char Dham pilgrimage considered sacred by Hindus in India. Adi Shankaracharya, the 8th century Hindu theologian and philosopher, visited the shrine. The other three being comprising Rameswaram, Badrinath and Puri. Even today a memorial within the temple is dedicated to his visit. Dwarakadheesh is the 98th Divya Desam of Vishnu on the subcontinent, glorified in the Divya Prabandha sacred texts.[6] The temple is at an elevation of 12.19 metres (40.0 ft) above mean sea-level. It faces west. The temple layout consists of a garbhagriha (Nijamandira or Harigraha) and an antarala (an antechamber).[7] However, the existing temple is dated to 16th century.",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":4,
       "temple_name": "Sree Padmanabhaswamy Temple",
       "temple_location": "Thiruvananthapuram",
       "temple_image":"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRWLY98OrnhSHc-I4VuSj6g5yW9EAGju48oPiRNEtUYeQQ0knpgMM1DEWVI1ucZKfvm",
-      "temple_description": "The Shree Padmanabhaswamy Temple is a Hindu temple located in Thiruvananthapuram, the capital of the state of Kerala, India. It is widely considered as the world's richest Hindu temple. The name of the city of 'Thiruvananthapuram' in Malayalam and Tamil translates to 'The City of Ananta'."
+      "temple_description": "The Shree Padmanabhaswamy Temple is a Hindu temple located in Thiruvananthapuram, the capital of the state of Kerala, India. It is widely considered as the world's richest Hindu temple. The name of the city of 'Thiruvananthapuram' in Malayalam and Tamil translates to 'The City of Ananta'.",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":5,
       "temple_name": "Shree Jagannatha Temple ",
       "temple_location": "Puri",
       "temple_image":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Shri_Jagannatha_Temple.jpg",
-      "temple_description": "Char Dham v t e Jagannath Rameswaram Dwarka Badrinath The Jagannath Temple is an important Hindu temple dedicated to Jagannath, a form of Vishnu – one of the trinity of supreme divinity in Hinduism. Puri is in the state of Odisha, on the eastern coast of India"
+      "temple_description": "Char Dham v t e Jagannath Rameswaram Dwarka Badrinath The Jagannath Temple is an important Hindu temple dedicated to Jagannath, a form of Vishnu – one of the trinity of supreme divinity in Hinduism. Puri is in the state of Odisha, on the eastern coast of India",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":6,
       "temple_name": "Lingaraj Temple",
       "temple_location": "Bhubaneswar",
       "temple_image":"https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQgDdDKCHs-SgSb0SkBmxdbpHcIlF5eL_cd8OxKeinFsVbaIh_KS7kK20mZEFkiJX-J",
-      "temple_description": "Lingaraja Temple is a Hindu temple dedicated to Shiva and is one of the oldest temples in Bhubaneswar, the capital of the Indian state of Odisha, India. The temple is the most prominent landmark of Bhubaneswar city and one of the major tourist attractions of the state."
+      "temple_description": "Lingaraja Temple is a Hindu temple dedicated to Shiva and is one of the oldest temples in Bhubaneswar, the capital of the Indian state of Odisha, India. The temple is the most prominent landmark of Bhubaneswar city and one of the major tourist attractions of the state.",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":7,
       "temple_name": "Shree Somnath Jyotirling Temple",
       "temple_location": "Gujarat",
       "temple_image":"https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQwf5ATNhE5GSm6RzhREdNYnrMJZ3us-FOekLKF-FvlJ3lBTOrbqIVmMT00OU9lPjEm",
-      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
+      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. ",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":8,
       "temple_name": "Akshardham Temple",
       "temple_location": "Delhi",
       "temple_image":"https://lh3.googleusercontent.com/p/AF1QipN_LpgdPKyUbSlnWctPnU9qgngDqmTcj5E6BLTj=s1360-w1360-h1020",
-      "temple_description": "Akshardham Temple in Delhi is a magnificent Hindu temple complex known for its stunning architecture, intricate carvings, and a captivating water show."
+      "temple_description": "Akshardham Temple in Delhi is a magnificent Hindu temple complex known for its stunning architecture, intricate carvings, and a captivating water show.",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":9,
       "temple_name": "Brihadeeswarar Temple",
       "temple_location":"Thanjavur",
       "temple_image":"https://www.colorkinetics.com/content/dam/color-kinetics/showcases/brihadeshwara-temple/brihadeshwara1-l.jpg",
-      "temple_description": "The Brihadeeswarar Temple in Thanjavur, Tamil Nadu, is a UNESCO World Heritage Site and showcases the finesse of Chola architecture, dedicated to Lord Shiva. "
+      "temple_description": "The Brihadeeswarar Temple in Thanjavur, Tamil Nadu, is a UNESCO World Heritage Site and showcases the finesse of Chola architecture, dedicated to Lord Shiva. ",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":10,
       "temple_name": "Sun Temple",
       "temple_location": "Konark",
       "temple_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/330px-Konarka_Temple.jpg",
-      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
+      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. ",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":11,
       "temple_name": "Dilwara Temples",
       "temple_location": "Mount Abu",
       "temple_image":"https://cdn1.goibibo.com/voy_ing/t_fs/mount-abu-dilwara-temples-148138593528o.jpeg",
-      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
+      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. ",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":12,
       "temple_name": "Shree Somnath Jyotirling Temple",
       "temple_location": "Gujarat",
       "temple_image":"https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQwf5ATNhE5GSm6RzhREdNYnrMJZ3us-FOekLKF-FvlJ3lBTOrbqIVmMT00OU9lPjEm",
-      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
+      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. ",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     },
     {
       "id":13,
       "temple_name": "Shree Somnath Jyotirling Temple",
       "temple_location": "Gujarat",
       "temple_image":"https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQwf5ATNhE5GSm6RzhREdNYnrMJZ3us-FOekLKF-FvlJ3lBTOrbqIVmMT00OU9lPjEm",
-      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
+      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. ",
+      "temple_image2":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kashi_Vishwanath_Temple_Banaras.jpg",
+      "temple_image3":"https://images.moneycontrol.com/static-mcnews/2022/09/kashi-vishwanath-dham-163929169216x9.png?impolicy=website&width=770&height=431"
     }
   ]
 }

@@ -1,6 +1,0 @@
-img {
-    height: 600px; /* Set the desired height */
-    width: 1800px;  /* Set the desired width */
-    object-fit: cover; /* This property ensures that the image maintains its aspect ratio while covering the specified dimensions */
-  }
-  

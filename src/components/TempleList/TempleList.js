@@ -7,7 +7,7 @@ const TempleList = ({ temple }) => {
   return (
    <div style={{margin: "0px"}}>
       <br></br><br></br>
-        {/* <div class="card-deck"> */}
+        <div class="card-deck">
         <br></br>
         <TempleCard
           id={temple.id}
@@ -17,7 +17,7 @@ const TempleList = ({ temple }) => {
           description={temple.temple_description}
         />
     </div>
-    // </div>
+  </div>
   );
 };
 

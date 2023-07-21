@@ -27,14 +27,14 @@
   
   .temple-card .card-img-top {
     object-fit: cover;
-    height: 50%; /* Set the desired height for the card image */
+    height: 50%;
   }
 
   .button-position {
-    position: absolute; /* Set the card body to absolute position */
+    position: absolute;
     bottom: 0; 
     height:16%;
-    width: 90%; 
+    width: 100%; 
   }
 
   

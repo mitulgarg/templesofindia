@@ -3,7 +3,7 @@ import './Home.css';
 import TempleList from '../TempleList/TempleList';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import ImageSlider from "./ImageSlider";
+import ImageSlider from "./ImageSlider/ImageSlider";
 
 const Home = () => {
     const [temples, setTemples] = useState([]);
@@ -31,13 +31,14 @@ const Home = () => {
   
     return (
 
-      <div className="App">
+      <div>
         <div className="header">
         <h1>The Temples Of India</h1>
         <h5>Click on a Card for Detailed Information</h5>
         </div>
         <ImageSlider />
-        <div>
+        <div className="container">
+        <div class="card-deck">
         
           <Row>
             {temples.map((temple) => (
@@ -51,7 +52,7 @@ const Home = () => {
                 <p>&copy; 2023 Temples Of India. All rights reserved.</p>
         </footer>
        </div>
-  
+       </div>
     );
   };
   

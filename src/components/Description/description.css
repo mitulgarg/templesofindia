@@ -1,18 +1,35 @@
-.description-container {
-    text-align: center;
-    margin-top: 50px;
+.custom-container{
+    width: 80vw;
+    margin: auto;
+
+}
+
+.custom-button {
+    background-color: grey; 
+    color: white; 
+    border: none; 
+    
+}
+
+.back-button{
+    width:40px; 
+    height:40px;
+
+}
+  
+.custom-button:hover {
+    background-color: darkgrey; 
 }
 
 .header {
     background-color: #333;
     color: #ffffff;
-    padding: 25px;
+    padding: 10px;
     text-align: center;
 }
   
 .header h1 {
     font-size: 34px;
-    margin: 10;
 }
 
 .location {
@@ -20,29 +37,15 @@
     color: #888;
 }
 
-/* .image-container {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-} */
-
-/* .temple-image {
-    margin-top: 20px;
-    width: 800px;
-    height: 600px;
-
-
-} */
-
 img {
-    height: 800px;
-    width: 600px; 
+    height:50vh;
+    width: 100%; 
     object-fit: cover;
   }
 
 .temple-description {
     margin-top: 15px;
-    font-size: 26px;
+    font-size: 22px;
     line-height: 1.5;
     margin-left: 20px;
     margin-right: 20px;
