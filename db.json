@@ -48,6 +48,48 @@
       "temple_location": "Gujarat",
       "temple_image":"https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQwf5ATNhE5GSm6RzhREdNYnrMJZ3us-FOekLKF-FvlJ3lBTOrbqIVmMT00OU9lPjEm",
       "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
+    },
+    {
+      "id":8,
+      "temple_name": "Akshardham Temple",
+      "temple_location": "Delhi",
+      "temple_image":"https://lh3.googleusercontent.com/p/AF1QipN_LpgdPKyUbSlnWctPnU9qgngDqmTcj5E6BLTj=s1360-w1360-h1020",
+      "temple_description": "Akshardham Temple in Delhi is a magnificent Hindu temple complex known for its stunning architecture, intricate carvings, and a captivating water show."
+    },
+    {
+      "id":9,
+      "temple_name": "Brihadeeswarar Temple",
+      "temple_location":"Thanjavur",
+      "temple_image":"https://www.colorkinetics.com/content/dam/color-kinetics/showcases/brihadeshwara-temple/brihadeshwara1-l.jpg",
+      "temple_description": "The Brihadeeswarar Temple in Thanjavur, Tamil Nadu, is a UNESCO World Heritage Site and showcases the finesse of Chola architecture, dedicated to Lord Shiva. "
+    },
+    {
+      "id":10,
+      "temple_name": "Sun Temple",
+      "temple_location": "Konark",
+      "temple_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/330px-Konarka_Temple.jpg",
+      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
+    },
+    {
+      "id":11,
+      "temple_name": "Dilwara Temples",
+      "temple_location": "Mount Abu",
+      "temple_image":"https://cdn1.goibibo.com/voy_ing/t_fs/mount-abu-dilwara-temples-148138593528o.jpeg",
+      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
+    },
+    {
+      "id":12,
+      "temple_name": "Shree Somnath Jyotirling Temple",
+      "temple_location": "Gujarat",
+      "temple_image":"https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQwf5ATNhE5GSm6RzhREdNYnrMJZ3us-FOekLKF-FvlJ3lBTOrbqIVmMT00OU9lPjEm",
+      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
+    },
+    {
+      "id":13,
+      "temple_name": "Shree Somnath Jyotirling Temple",
+      "temple_location": "Gujarat",
+      "temple_image":"https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQwf5ATNhE5GSm6RzhREdNYnrMJZ3us-FOekLKF-FvlJ3lBTOrbqIVmMT00OU9lPjEm",
+      "temple_description": "The Somnath temple, also called Somanātha temple or Deo Patan, is a Hindu temple located in Prabhas Patan, Veraval in Gujarat, India. It is one of the most sacred pilgrimage sites for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. "
     }
   ]
 }

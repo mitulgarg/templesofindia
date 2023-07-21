@@ -1,6 +1,6 @@
 // import React, { useState, useEffect } from "react";
 import './App.css';
-import Description from './components/description';
+import Description from './components/Description/description';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from './components/Home/Home.js';
 

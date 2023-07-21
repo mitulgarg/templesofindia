@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./description.css";
-import { Route, Routes, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 
 
 // const Description = ({ id,name,location,image,description }) =>{
@@ -36,14 +36,14 @@ const Description = () => {
             <h1>{temples.temple_name}</h1>
             <h5>{temples.temple_location}</h5>
             </div>
-            <div class="temple-image">
-                <img src={temples.temple_image} width="800px" height="700px" alt="templeimage" />
+            <div class="img">
+                <img src={temples.temple_image} alt="templeimage" />
             </div>
             <br></br><br></br>
             <p class="temple-description">{temples.temple_description}</p>
             <br></br>
             <footer>
-                <p class='content'>&copy; 2023 Temples and their Description. All rights reserved.</p>
+                <p class='content'>&copy; 2023 Temples Of India. All rights reserved.</p>
             </footer>
 
 

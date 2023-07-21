@@ -1,13 +1,13 @@
 import React from 'react';
-import TempleCard from './TempleCard';
+import TempleCard from '../TempleCard/TempleCard';
 import './TempleList.css';
 
 
 const TempleList = ({ temple }) => {
   return (
-    <div className="container">
+   <div style={{margin: "0px"}}>
       <br></br><br></br>
-        <div class="card-deck">
+        {/* <div class="card-deck"> */}
         <br></br>
         <TempleCard
           id={temple.id}
@@ -16,12 +16,8 @@ const TempleList = ({ temple }) => {
           image={temple.temple_image}
           description={temple.temple_description}
         />
-      </div>
-
-
-
-
     </div>
+    // </div>
   );
 };
 

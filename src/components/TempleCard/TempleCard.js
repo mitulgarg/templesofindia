@@ -21,7 +21,7 @@ const TempleCard = ({ id, name, location, image, description }) => {
               <Card.Text>{location}</Card.Text>
               <div class="button-position">
               <Button variant="primary">
-                <Link className=" text-white text-decoration-none" to={`/temples/${id}`}>Go somewhere</Link>
+                <Link className=" text-white text-decoration-none" to={`/temples/${id}`}>Know More</Link>
               </Button>
               </div>
             </Card.Body>

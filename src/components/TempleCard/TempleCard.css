@@ -1,17 +1,23 @@
 .temple-card {
     background-color: #fbebce;
     border-radius: 16px;
-    padding: 11px;
-    margin-bottom: 16px;
-    width: 21.25rem; 
-    height: 21.3rem;
-    flex: 1;
+    padding: 10px;
+    margin-bottom: 1px;
+    width: 20.25rem; 
+    height: 21.2rem;
     position: relative;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 25px;
+    display: flex;
+    
   }
   
   .temple-card h2 {
     font-size: 24px;
-    margin-bottom: 8px;
+
+    margin-left: 10px;
+    margin-right: 10px;
   }
   
   .temple-card p {
@@ -30,3 +36,5 @@
     height:16%;
     width: 90%; 
   }
+
+  

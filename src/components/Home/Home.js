@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from "react";
 import './Home.css';
-import TempleList from '../TempleList';
+import TempleList from '../TempleList/TempleList';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import ImageSlider from "./ImageSlider";
 
 const Home = () => {
     const [temples, setTemples] = useState([]);
@@ -35,6 +36,7 @@ const Home = () => {
         <h1>The Temples Of India</h1>
         <h5>Click on a Card for Detailed Information</h5>
         </div>
+        <ImageSlider />
         <div>
         
           <Row>
@@ -45,6 +47,9 @@ const Home = () => {
             ))}
           </Row>
        </div>
+       <footer>
+                <p>&copy; 2023 Temples Of India. All rights reserved.</p>
+        </footer>
        </div>
   
     );

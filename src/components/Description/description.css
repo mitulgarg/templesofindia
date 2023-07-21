@@ -20,31 +20,40 @@
     color: #888;
 }
 
-.image-container {
+/* .image-container {
     display: flex;
     justify-content: center;
     margin-top: 20px;
-}
+} */
 
-.temple-image {
+/* .temple-image {
     margin-top: 20px;
     width: 800px;
-    height: 700px;
+    height: 600px;
+
+
+} */
+
+img {
+    height: 800px;
+    width: 600px; 
     object-fit: cover;
-    align:c
-}
+  }
 
 .temple-description {
-    margin-top: 20px;
+    margin-top: 15px;
     font-size: 26px;
     line-height: 1.5;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 footer {
-    margin-top: 50px;
+    margin-top: 55px;
 }
 
 .content {
-    font-size: 12px;
-    color: #888;
+    margin-left: 10px;
+    font-size:16px;
+    color: #333333;
 }

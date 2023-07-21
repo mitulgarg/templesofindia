@@ -1,0 +1,19 @@
+.container{
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.card-deck {
+    display: flex; 
+    /* flex-wrap: wrap; */
+
+    margin-left: 50px ;
+    margin-right: 1px;
+
+  }
+  
+  .card {
+    /* flex: 1 0 auto; */
+
+  }
