@@ -9,8 +9,9 @@ Setup the JSON backend server by running the necessary commands.
 File name with data is "db.json"
 
 1) Installing JSON server package
-   
 ### npm install -g json-server
+
+
 
 2) Starting server
 ### json-server --watch db.json --port 3030
