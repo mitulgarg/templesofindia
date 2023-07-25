@@ -4,17 +4,17 @@ import './TempleList.css';
 
 
 const TempleList = ({ temple }) => {
+
   return (
-   <div style={{margin: "0px"}}>
+   <div>
       <br></br><br></br>
-        <div class="card-deck">
+        <div className="card-deck">
         <br></br>
         <TempleCard
           id={temple.id}
           name={temple.temple_name}
           location={temple.temple_location}
           image={temple.temple_image}
-          description={temple.temple_description}
         />
     </div>
   </div>

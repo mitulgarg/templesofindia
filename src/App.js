@@ -3,7 +3,7 @@ import './App.css';
 import Description from './components/Description/description';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from './components/Home/Home.js';
-
+import Dropdownview from './components/Unused/Dropdownview';
 
 
 const App = () => {
@@ -36,6 +36,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/temples/:id/*" element={<Description/>} />
+        <Route path="/:index" element={<Dropdownview/>} />
       </Routes>
     </BrowserRouter>
 

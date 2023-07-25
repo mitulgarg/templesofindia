@@ -1,14 +1,6 @@
-
 .card-deck {
     display: flex; 
-    /* flex-wrap: wrap; */
-
     margin-left: 10px ;
     margin-right: 1px;
-
-  }
   
-  .card {
-    /* flex: 1 0 auto; */
-
-  }
+}

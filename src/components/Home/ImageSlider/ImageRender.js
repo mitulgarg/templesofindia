@@ -14,7 +14,7 @@ const ImageRender = ({ text }) => {
         <img 
         src={imageSrc}
         alt={text} 
-        class="img"
+        className="img"
         />
     </div>
   );

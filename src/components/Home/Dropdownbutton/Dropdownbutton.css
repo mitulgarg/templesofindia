@@ -1,0 +1,13 @@
+.button{
+    background-color: #333;
+    color: #b83232;
+    padding:10px;
+    margin: 10px;
+}
+
+.drop{
+  margin-top: 10px;
+  padding: "10rem";
+  border-radius: 5px;
+}
+

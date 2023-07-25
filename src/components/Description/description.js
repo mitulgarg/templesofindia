@@ -3,7 +3,6 @@ import "./description.css";
 import { useParams } from "react-router-dom";
 import { Link } from 'react-router-dom'
 import DescriptionSlider from "./DescriptionSlider/descriptionslider";
-import DescriptionWeather from "./DescriptionWeather/DescriptionWeather";
 
 // const Description = ({ id,name,location,image,description }) =>{
 
@@ -37,7 +36,7 @@ const Description = () => {
             <div className="header">
             <div className="row">
                 <div className="col-1">
-                <button className="custom-button btn btn-secondary" style={{ padding: '20px 14px'}}>
+                <button className="custom-button btn btn-secondary" style={{ padding: '12px 10px', 'margin-top':'7px'}}>
                     <Link className=" text-white text-decoration-none" to={`/`}>                
                          <img src="https://cdn-icons-png.flaticon.com/512/318/318504.png" alt="buttonpng" border="0" className="back-button" />
                     </Link>
@@ -64,14 +63,14 @@ const Description = () => {
             <div className="col-7">
             
 
-            <p class="temple-description">{temples.temple_description}</p>
+            <p className="temple-description">{temples.temple_description}</p>
             {/* <DescriptionWeather /> */}
             </div>
 
             </div>
 
             <footer>
-                <p class='content'>&copy; 2023 Temples Of India. All rights reserved.</p>
+                <p className='content'>&copy; 2023 Temples Of India. All rights reserved.</p>
             </footer>
         </div>
       </div>

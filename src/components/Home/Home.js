@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
-import './Home.css';
 import TempleList from '../TempleList/TempleList';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import ImageSlider from "./ImageSlider/ImageSlider";
+import ImageSlider from './ImageSlider/ImageSlider';
+import './Home.css';
+import Dropdownbutton from './Dropdownbutton/Dropdownbutton'
 
 const Home = () => {
     const [temples, setTemples] = useState([]);
@@ -38,15 +39,16 @@ const Home = () => {
         </div>
         <ImageSlider />
         <div className="container">
-        <div class="card-deck">
-        
-          <Row>
+        <div className="card-deck">
+        <Dropdownbutton/>
+
+          {/* <Row>
             {temples.map((temple) => (
               <Col>
                 <TempleList key={temple.id} temple={temple} />
               </Col>
             ))}
-          </Row>
+          </Row> */}
        </div>
        <footer>
                 <p>&copy; 2023 Temples Of India. All rights reserved.</p>
