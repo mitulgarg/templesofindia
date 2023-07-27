@@ -21,10 +21,8 @@ function Dropdownbutton() {
             setTemples(data)
             setTempleslist(data);
             let temp=data.map(temple => temple.state)
-        console.log(temp);
         let  uniqueStates = [...new Set(temp)];
         setUniqueStates(uniqueStates)
-        console.log(uniqueStates);
         })
         
         
@@ -49,7 +47,7 @@ function Dropdownbutton() {
     return (
         
         <div className='drop'>
-            <select onChange={(e)=>{handleSettempleslist(e.target.value)}} style={{padding:"1rem","border-radius":"5px 5px 5px 5px","background-color":"#333",color: "white"}}>
+            <select onChange={(e)=>{handleSettempleslist(e.target.value)}} style={{padding:"1rem","borderRadius":"5px 5px 5px 5px","backgroundColor":"#333",color: "white"}}>
                 <option >States -</option>
                 {
                     uniqueStates.map((state, index) =>(
