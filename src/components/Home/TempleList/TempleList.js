@@ -1,5 +1,5 @@
 import React from 'react';
-import TempleCard from '../TempleCard/TempleCard';
+import TempleCard from '../Home/TempleCard/TempleCard';
 import './TempleList.css';
 
 
