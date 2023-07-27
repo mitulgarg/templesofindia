@@ -38,11 +38,11 @@ const ImageRender = ({ text }) => {
       const imageSrc = imageSources[text];
    
   return (
-    <div>
+    <div className="img">
         <img 
         src={imageSrc}
         alt={text} 
-        className="img"
+        
         />
     </div>
   );
