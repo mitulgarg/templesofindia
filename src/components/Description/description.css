@@ -51,12 +51,37 @@ img {
     margin-right: 20px;
 }
 
-footer {
-    margin-top: 55px;
-}
-
 .content {
     margin-left: 10px;
     font-size:16px;
     color: #333333;
+    padding-bottom: 240px;
 }
+
+/* Style for the footer container */
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style for the footer */
+  footerdesc {
+    background-color: #333;
+    color: #fff;
+    padding: 8px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Make the footer text link color white */
+  footerdesc a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Style for footer links when hovered */
+  footerdesc a:hover {
+    text-decoration: underline;
+  }
+

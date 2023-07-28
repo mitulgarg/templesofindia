@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from "react";
-import TempleList from '../TempleList/TempleList';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
 import ImageSlider from './ImageSlider/ImageSlider';
 import './Home.css';
 import Dropdownbutton from './Dropdownbutton/Dropdownbutton'
+import { Link } from 'react-router-dom';
+import NavHead from "./NavHead";
 
 const Home = () => {
     const [temples, setTemples] = useState([]);
@@ -31,29 +30,28 @@ const Home = () => {
     }, []);
   
     return (
-
       <div>
-        <div className="header">
-        <h1>The Temples Of India</h1>
-        <h5>Click on a Card for Detailed Information</h5>
-        </div>
+        <NavHead />
+        
         <ImageSlider />
+        <div>
         <div className="container">
+          <br></br>
+        <h1>Your One Stop destination for all the Temples of India!
+        </h1>
+
         <div className="card-deck">
         <Dropdownbutton/>
 
-          {/* <Row>
-            {temples.map((temple) => (
-              <Col>
-                <TempleList key={temple.id} temple={temple} />
-              </Col>
-            ))}
-          </Row> */}
        </div>
-       <footer>
-                <p>&copy; 2023 Temples Of India. All rights reserved.</p>
+       </div>
+       <footer style={{background:"#333"}}>
+       <div class="footer-content">
+                <p >&copy; 2023 Temples Of India. All rights reserved.</p>
+                <p>Contact: contact@example.com</p>
+        </div>
         </footer>
-       </div>
+        </div>
        </div>
     );
   };

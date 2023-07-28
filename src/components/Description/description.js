@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import { Link } from 'react-router-dom'
 import DescriptionSlider from "./DescriptionSlider/descriptionslider";
 import DescriptionWeather from "./DescriptionWeather/DescriptionWeather"
-// const Description = ({ id,name,location,image,description }) =>{
+
 
 const Description = () => {
     const [temples, setTemples] = useState([]);
@@ -63,6 +63,7 @@ const Description = () => {
             </div>
 
             <div className="custom-container">
+                <div className="content">
                 <div className="row">
                     <div className="col-5">
                         {/* <img src={temples.temple_image} alt="templeimage" /> */}
@@ -78,14 +79,17 @@ const Description = () => {
                         <p className="temple-description">{temples.temple_description}</p>
 
                     </div>
-
+                    </div>
                 </div>
-
+                </div>
                 <footer>
-                    <p className='content'>&copy; 2023 Temples Of India. All rights reserved.</p>
+                    <div class="footerdesc">
+                        <p >&copy; 2023 Temples Of India. All rights reserved.</p>
+                        <p>Contact: contact@example.com</p>
+                    </div>
                 </footer>
+                
             </div>
-        </div>
 
     )
 }

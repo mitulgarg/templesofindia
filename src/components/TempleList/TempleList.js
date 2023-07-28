@@ -7,9 +7,7 @@ const TempleList = ({ temple }) => {
 
   return (
    <div>
-      <br></br><br></br>
         <div className="card-deck">
-        <br></br>
         <TempleCard
           id={temple.id}
           name={temple.temple_name}
