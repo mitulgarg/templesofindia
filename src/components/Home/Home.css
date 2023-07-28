@@ -17,10 +17,10 @@
     margin: 10;
   }
   
-  .card-deck {
+  .card2deck {
     display: flex; 
     flex-wrap: wrap;
-
+    margin-top: 45px;
     margin-left: 20px ;
     margin-right: 1px;
 

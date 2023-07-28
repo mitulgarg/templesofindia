@@ -15,44 +15,23 @@ const NavHead = () => {
                     <Container fluid>
                         <Navbar.Brand>
                         <Link className=" text-white text-decoration-none" to={`/`}>
-                            <h3 style={{ marginTop: "0.5rem"}}>
+                            <h3 style={{ marginTop: "0.5rem",marginLeft:"7rem"}}>
                                 <img src="templeicon.png" alt="icon" style={{ width: '40px', height: '40px', marginRight: "1rem" }}></img>Temples Of India</h3>
                         </Link>
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="navbarScroll" />
                         <Navbar.Collapse id="navbarScroll">
-                            <Nav
-                                className="me-auto my-2 my-lg-0"
-                                style={{ maxHeight: '101px' }}
-                                navbarScroll
-                            >
-                                <div className="col-7" >
-                                <Nav.Link>
+                        <Nav className="ms-auto" navbarScroll> 
+                                
                                     <Link className=" text-white text-decoration-none" to={`/temple`}>
-                                        
-                                        <h5 style={{ marginTop: "0.5rem" }}>Temples</h5>
-                                       
-                                    </Link>
-                                </Nav.Link>
-                                </div>
-
-                                <div  className="col-8" >
-                                <Nav.Link>
+                                        <h4 style={{ marginTop: "0.5rem" , marginRight: "5rem"}}>Temples</h4>                                      
+                                    </Link>                               
+                                                      
                                     <Link className=" text-white text-decoration-none" to={`/contact`}>
-                                        <h5 style={{ marginTop: "0.5rem" }}>Contact Us</h5>
+                                        <h4 style={{ marginTop: "0.5rem" , marginRight: "5rem"}}>Contact Us</h4>
                                     </Link>
-                                </Nav.Link>
-                                </div>
+                                    
                             </Nav>
-                            <Form className="d-flex">
-                                <Form.Control
-                                    type="search"
-                                    placeholder="Search"
-                                    className="me-2"
-                                    aria-label="Search"
-                                />
-                                <Button variant="outline-light">Search</Button>
-                            </Form>
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>

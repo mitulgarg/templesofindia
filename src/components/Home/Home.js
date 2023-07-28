@@ -4,6 +4,7 @@ import './Home.css';
 import Dropdownbutton from './Dropdownbutton/Dropdownbutton'
 import { Link } from 'react-router-dom';
 import NavHead from "./NavHead";
+import Button from 'react-bootstrap/Button';
 
 const Home = () => {
     const [temples, setTemples] = useState([]);
@@ -36,11 +37,33 @@ const Home = () => {
         <ImageSlider />
         <div>
         <div className="container">
+
+
+
+ 
+    <h5>Bootstrap 4 Search Bar</h5>
+    <div className="row justify-content-center">
+        <div className="col-6 text-center">
+            <div className="input-group">
+            {/* <div className="search"> */}
+                <input className="form-control border-secondary py-2" type="Search" value="Search" style={{'marginTop': '180px'}}/>
+                <Button variant="outline-light" style={{'marginTop': '180px'}}>Search</Button>
+            </div>
+        
+    </div>
+    </div>
+    
+
+
+
+
+
+
           <br></br>
         <h1>Your One Stop destination for all the Temples of India!
         </h1>
 
-        <div className="card-deck">
+        <div className="card2deck">
         <Dropdownbutton/>
 
        </div>
