@@ -1,7 +1,7 @@
 import Dropdown from 'react-bootstrap/Dropdown';
 import React, { useState, useEffect } from "react";
 import "./Dropdownbutton.css";
-import TempleList from '../../TempleList/TempleList';
+import TempleList from '../TempleList/TempleList';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 // import { DropdownButton } from 'react-bootstrap';
