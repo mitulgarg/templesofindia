@@ -18,6 +18,11 @@ File name with data is "db.json"
 
 Given Npm is available, 
 
+3) Installed Bootstrap and React-spring For Frontend:
+   
+## Installed React-bootstrap (For CSS) and React-Spring (For fade-in animation)
+
+4) Running of React.js Frontend Server
 ### `npm start`
 
 Runs the app in the development mode.\
