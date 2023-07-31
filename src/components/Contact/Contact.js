@@ -7,9 +7,10 @@ const Contact = () => {
   return (
     <>
     <NavHead />
-    <h1>Contact Details</h1>
-    <p>Mail : templesofindia@gmail.com</p>
-    <p>Phone : 7406232174</p>
+    <img src="templeicon.png" alt="temple" style={{ width: '400px', height: '400px', margin:"auto" }}></img>
+    <h1 style={{marginLeft:"1rem",marginTop:'0rem'}}>Contact Details</h1> <br></br>
+    <p style={{marginLeft:"2rem",marginTop:'1rem'}}>Mail : templesofindia@gmail.com</p>
+    <p style={{marginLeft:"2rem",marginTop:'1rem'}}>Phone : 7406232174</p>
 
    </>
   );

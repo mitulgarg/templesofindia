@@ -9,15 +9,17 @@ import { Link } from 'react-router-dom';
 const TempleCard = ({ id, name, location, image }) => {
   return (
  <CardDeck>
-      <div className="temple-card">
+      <div className="temple-card" style={{'z-index': '5'}}>
           <Card style={{width:"20rem", height:"20rem"}}>
             <Card.Img variant="top" src={image} />
             <Card.Body>
               <Card.Title>{name}</Card.Title>
               <Card.Text>{location}</Card.Text>
+              <Link className=" text-white text-decoration-none" to={`/temples/${id}`}>
               <button className="button-position">
-                <Link className=" text-white text-decoration-none" to={`/temples/${id}`}>Know More</Link>
+                Know More 
               </button>
+              </Link>
             </Card.Body>
           </Card>
       </div> 

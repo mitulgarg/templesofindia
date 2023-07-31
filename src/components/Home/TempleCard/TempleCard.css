@@ -36,13 +36,20 @@
     height:14%;
     width: 45%; 
     background-color: #333;
-    color: #b83232;
+    color: white;
     /* padding:8px; */
     margin-left: 68px;
     /* margin-bottom: 2px; */
     /* padding: 6px; */
     bottom:15px;
     border-radius: 6px;
+    transition-duration: 0.4s;
   }
 
-  
+
+
+
+.button-position:hover {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+}
